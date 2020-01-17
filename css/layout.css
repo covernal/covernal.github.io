@@ -2567,3 +2567,7 @@
 	-webkit-transform: rotate(360deg);
 	transform: rotate(360deg);
 }
+
+.f_btn label.badge {
+	display: inline;
+}
